@@ -4,7 +4,7 @@ void generateSeries(int num)
 {
     if (num <= 0)
         return;
-    
+
     generateSeries(num - 1); // Recursive call
 
     // Calculate the current term in the series
@@ -24,4 +24,3 @@ int main()
 
     return 0;
 }
-
