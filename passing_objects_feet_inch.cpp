@@ -1,3 +1,4 @@
+// add 2 object having feet and inch
 #include <iostream>
 using namespace std;
 class Distance

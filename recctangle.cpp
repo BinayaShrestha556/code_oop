@@ -1,3 +1,4 @@
+// find area and perimeter of a rectangle.
 #include <iostream>
 using namespace std;
 class Rectangle

@@ -31,4 +31,5 @@ int main()
     c2.getData();
     c3 = c1.add(c2);
     c3.print();
+    return 0;
 }
